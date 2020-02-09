@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body, html {
+  height: 100%;
+}
+
+.parallax {
+  /* The image used */
+  background-image: url(/Users/annanikitina/Desktop/d.jpeg);
+
+  /* Full height */
+  height: 70%; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+</style>
+</head>
+<body>
+
+<div style="height:100px; background-image: linear-gradient(to right,#ABFFE7,#B4FFAB); font-style:italic; color: white; text-shadow: 2px 2px 4px #000000; line-height: 2.0; text-align: center; font-size:25px">
+<p>Welcome to the page where you can find an information on how to cope with signs of depression. Here you can also find "Depression Hotline Numbers" Alright, take a deep breath and let's go!!!!</p>
+</div>
+<div class="parallax"></div>
+
+<div style="height:1000px;background-image: linear-gradient(to right,#ABFFE7,#B4FFAB) ;font-size:36px">
+A lot of people in this world suffer from depression symptoms. However sometimes it is hard to identify the signs.Check the boxex bellow to see what you have bee recently experiensing. Ask yourself, do you feel any of the following:
+    <div class="sequencer__node" data-index="10">
+<div class="sequencer__drum" data-drum="B">
+        <input type="checkbox" class="sequencer__nodeActive" />
+            <label>Oversleeping or not sleeping enough</label>
+    
+    <div class="sequencer__node" data-index="10">
+<div class="sequencer__drum" data-drum="B">
+        <input type="checkbox" class="sequencer__nodeActive" />
+            <label>Inappropriate food consumption</label>
+        <div class="sequencer__node" data-index="10">
+<div class="sequencer__drum" data-drum="B">
+        <input type="checkbox" class="sequencer__nodeActive" />
+            <label>Mood swings </label>
+        <div class="sequencer__node" data-index="10">
+<div class="sequencer__drum" data-drum="B">
+        <input type="checkbox" class="sequencer__nodeActive" />
+            <label>Fatigue</label>
+        <div class="sequencer__node" data-index="10">
+<div class="sequencer__drum" data-drum="B">
+        <input type="checkbox" class="sequencer__nodeActive" />
+            <label>Forced happiness</label>
+        <div class="sequencer__node" data-index="10">
+<div class="sequencer__drum" data-drum="B">
+        <input type="checkbox" class="sequencer__nodeActive" />
+            <label>Hard time to consentrate on the task</label>
+        <div class="sequencer__node" data-index="10">
+<div class="sequencer__drum" data-drum="B">
+        <input type="checkbox" class="sequencer__nodeActive" />
+            <label>Angry or irritable</label>
+            <div class="sequencer__node" data-index="10">
+<div class="sequencer__drum" data-drum="B">
+        <input type="checkbox" class="sequencer__nodeActive" />
+            <label>Use of drugs and alcohol</label>
+     <div class="sequencer__node" data-index="10">
+<div class="sequencer__drum" data-drum="B">
+        <input type="checkbox" class="sequencer__nodeActive" />
+            <label>Having thoughts of harming yoursel or others</label>
+     <div class="sequencer__node" data-index="10">
+<div class="sequencer__drum" data-drum="B">
+        <input type="checkbox" class="sequencer__nodeActive" />
+            <label>Having thoughts of killing yourself</label>
+    
+If you experience at list three of those symptomps you are probably dealing with depression. This is a very seriouse 
+</div>
+</div>
+</div>
+    
+    
+
+
+<div class="parallax"></div>
+
+</body>
+</html>
